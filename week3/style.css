@@ -77,3 +77,15 @@ header .flex{
 .active{
    border: 5px  dashed #fff;
 }
+
+.main-area{
+    background-color: #333;
+    width: 100vw;
+    height: 100vh;
+}
+
+.btn{
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+}
