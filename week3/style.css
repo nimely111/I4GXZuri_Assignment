@@ -2,5 +2,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow: hidden;
+    /* overflow: hidden; */
+}
+
+body{
+    /* line-height: 0.5; */
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    color: #333;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+header{
+    background-color: gold;
+    padding: 15px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
 }
