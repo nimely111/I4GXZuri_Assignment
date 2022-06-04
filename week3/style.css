@@ -42,12 +42,23 @@ nav a{
     margin: 0 10px;
 }
 
+header .flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 
 .container{
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 40px;
     overflow: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
 }
 
 a{
