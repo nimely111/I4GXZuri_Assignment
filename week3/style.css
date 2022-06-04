@@ -71,3 +71,7 @@ header .flex{
 .logo{
     cursor: pointer;
 }
+
+.active:hover{
+    border-bottom: 2px solid #fff;
+}
