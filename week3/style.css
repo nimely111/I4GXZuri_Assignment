@@ -72,6 +72,8 @@ header .flex{
     cursor: pointer;
 }
 
-.active:hover{
-    border-bottom: 2px solid #fff;
+
+
+.active{
+   border: 5px  dashed #fff;
 }
