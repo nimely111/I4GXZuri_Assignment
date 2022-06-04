@@ -12,6 +12,7 @@ body{
     line-height: 1.6;
 }
 
+/* utilities */
 a{
     text-decoration: none;
     color: #000;
@@ -24,6 +25,7 @@ h1, h2{
     overflow-y: hidden
 }
 
+/* header and nav start*/
 header{
     background: #2F7AED;
     height: 70px;
@@ -77,15 +79,31 @@ header .flex{
 .active{
    border: 5px  dashed #fff;
 }
+/* header and nav end*/
 
+
+/* main-area start*/
 .main-area{
     background-color: #333;
     width: 100vw;
     height: 100vh;
+    margin: 0 auto;
 }
+
 
 .btn{
     background-color: transparent;
     border: 1px solid #fff;
     color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-left: auto;
+    width: 150px;
 }
+
+.btn:hover{
+    background: #2F7AED;
+    border: none;
+}
+
+/* main-area ends*/
