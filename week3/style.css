@@ -127,7 +127,7 @@ form label{
     margin-top: 10px;
 }
 
-#my-form input[type="text"], input[type="email"]{
+#my-form input[type="text"], input[type="email"],input[type="password"]{
     width: 100%;
     padding: 10px 15px;
     font-size: 16px;
@@ -143,6 +143,7 @@ form label{
 
 #my-form input[type="submit"]{
     width: 100%;
+    margin-top: 5px;
 }
 
 form input, textarea{
