@@ -117,12 +117,29 @@ header .flex{
 #my-form{
     margin-left: 25%;
     margin-right: 25%;
-    margin-top: 50px;
+    margin-top: 10px;
+    outline: none;
     /* background: #f4f4f4; */
 }
 
 form label{
     display: block;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#my-form input[type="text"], input[type="email"]{
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 7px;
+}
+
+#my-form textarea{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 7px;
 }
 
 /* contact me ends */
