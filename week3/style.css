@@ -117,9 +117,9 @@ header .flex{
 #my-form{
     margin-left: 25%;
     margin-right: 25%;
-    margin-top: 10px;
+    margin-top: 5px;
     outline: none;
-    /* background: #f4f4f4; */
+    background: grey;
 }
 
 form label{
@@ -140,6 +140,10 @@ form label{
     padding: 10px;
     font-size: 16px;
     border-radius: 7px;
+}
+
+#my-form input[type="submit"]{
+    width: 100%;
 }
 
 /* contact me ends */
