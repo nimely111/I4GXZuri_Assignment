@@ -110,6 +110,17 @@ header .flex{
     cursor: pointer;
 }
 
+#login-btn{
+    background-color: #2F7AED;
+    border: none;
+    border-radius: 50px;
+}
+
+#login-btn:hover{
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
 /* main-area ends*/
 
 /* contact me starts */
@@ -154,7 +165,7 @@ form input, textarea{
 
 /* login starts */
 #login{
-    margin: 60px auto;
+    margin: 7rem auto;
     width: 400px;
     box-shadow: 10px 5px 15px 5px rgba(0,0, 0, 0.5);
     padding-bottom: 20px;
@@ -162,7 +173,11 @@ form input, textarea{
 /* login ends */
 
 /* registration starts */
-
+#registration{
+    width: 300px;
+    height: 300px;
+    overflow: auto;
+}
 /* registration ends */
 
 
