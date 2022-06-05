@@ -118,7 +118,6 @@ header .flex{
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 5px;
-    outline: none;
 }
 
 form label{
@@ -144,6 +143,7 @@ form label{
 #my-form input[type="submit"]{
     width: 100%;
     margin-top: 5px;
+    font: size 18px;
 }
 
 form input, textarea{
