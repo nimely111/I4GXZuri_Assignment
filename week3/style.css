@@ -111,3 +111,18 @@ header .flex{
 }
 
 /* main-area ends*/
+
+/* contact me starts */
+
+form{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+}
+
+form label{
+    display: block;
+}
+
+/* contact me ends */
+
