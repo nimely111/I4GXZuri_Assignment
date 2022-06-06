@@ -123,6 +123,15 @@ header .flex{
 
 /* contact me starts */
 
+#contact{
+    margin: 0.5rem auto;
+    width: 500px;
+    box-shadow: 10px 5px 15px 5px rgba(0,0, 0, 0.5);
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+
+}
 #my-form{
     margin-left: 25%;
     margin-right: 25%;
