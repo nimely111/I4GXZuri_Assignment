@@ -100,18 +100,16 @@ header .flex{
 
 
 .btn{
-    background-color: transparent;
-    border: 1px solid #fff;
+    background: #2F7AED;
     color: #fff;
     padding: 10px 15px;
     border-radius: 5px;
     margin-left: auto;
     width: 150px;
+    border: none;
 }
 
 .btn:hover{
-    background: #2F7AED;
-    border: none;
     cursor: pointer;
 }
 
@@ -125,6 +123,9 @@ header .flex{
 
 /* contact me starts */
 
+.contact{
+    
+}
 #my-form{
     margin-left: 25%;
     margin-right: 25%;
