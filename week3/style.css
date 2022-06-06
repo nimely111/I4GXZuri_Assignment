@@ -175,7 +175,7 @@ form label{
     font-size: 18px;
 }
 
-form input, textarea{
+#my-form input, textarea{
     outline: none;
 }
 
@@ -191,9 +191,12 @@ form input, textarea{
 /* login ends */
 
 /* registration starts */
-#form-registration{
-    
+#form-registration input[type="text"], input[type="email"],input[type="password"], input[type="password"]{
+   
+
 }
+
+
 /* registration ends */
 
 
