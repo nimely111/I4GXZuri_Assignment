@@ -147,7 +147,7 @@ form label{
     margin-top: 10px;
 }
 
-#my-form input[type="text"], input[type="email"],input[type="password"]{
+#my-form input[type="text"], input[type="email"],input[type="password"], input[type="number"]{
     width: 100%;
     padding: 10px 15px;
     font-size: 16px;
@@ -192,7 +192,7 @@ form input, textarea{
 
 /* registration starts */
 #registration{
-    width: 300px;
+    width: auto;
     height: 300px;
     overflow: auto;
 }
