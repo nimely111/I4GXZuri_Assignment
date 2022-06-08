@@ -133,6 +133,7 @@ header .flex{
     padding-bottom: 5px;
     margin-top: 10px;
     margin-bottom: 40px;
+    border-radius: 10px;
 }
 #my-form{
     margin-left: 25%;
