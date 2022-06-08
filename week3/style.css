@@ -133,7 +133,6 @@ header .flex{
     padding-bottom: 5px;
     margin-top: 10px;
     margin-bottom: 40px;
-
 }
 #my-form{
     margin-left: 25%;
@@ -187,11 +186,22 @@ form label{
     width: 400px;
     box-shadow: 10px 5px 15px 5px rgba(0,0, 0, 0.5);
     padding-bottom: 20px;
+    border-radius: 10px;
 }
 /* login ends */
 
 /* registration starts */
-
+#registration{
+    margin: 0.5rem auto;
+    width: 900px;
+    height: 450px;
+    box-shadow: 10px 5px 15px 
+    5px rgba(0,0, 0, 0.5);
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+}
 
 
 /* registration ends */
