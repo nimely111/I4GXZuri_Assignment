@@ -209,6 +209,11 @@ form label{
     outline: none;
 }
 
+#registration #form-registration input[type="password"]{
+    width: 33.3%;
+
+}
+
 #registration select[name="gender"]{
     padding: 10px 30px;
 }
