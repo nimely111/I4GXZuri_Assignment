@@ -204,7 +204,7 @@ form label{
   
 }
 
-#registration #form-registration input[type="text"], input[type="email"],input[type="password"], input[type="number"]{
+#registration #form-registration input[type="text"], input[type="number"]{
     padding: 10px 15px;
     outline: none;
 }
