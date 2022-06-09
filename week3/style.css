@@ -232,7 +232,11 @@ form label{
 
 #registration select[name="gender"]{
     padding: 8px 30px;
-
+    border-radius: 7px;
+    background: #333;
+    border: 1px solid #2F7AED;
+    color: #fff;
+    outline: none;
 }
 
 
