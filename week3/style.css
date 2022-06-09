@@ -204,18 +204,32 @@ form label{
   
 }
 
-#registration #form-registration input[type="text"], input[type="number"]{
+#registration input[type="text"], input[type="number"]{
     padding: 10px 15px;
+    outline: none;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+#registration  input[type="password"]{
+    width: 33.3%;
     outline: none;
 }
 
-#registration #form-registration input[type="password"]{
-    width: 33.3%;
+#registration input[type="email"]{
     outline: none;
 }
 
 #registration select[name="gender"]{
     padding: 10px 30px;
+}
+
+#registration{
+    display: block;
+}
+
+#registration input[type="submit"]{
+    width: 100%;
 }
 
 
