@@ -211,7 +211,7 @@ form label{
 
 #registration #form-registration input[type="password"]{
     width: 33.3%;
-
+    outline: none;
 }
 
 #registration select[name="gender"]{
