@@ -201,35 +201,45 @@ form label{
     margin-top: 10px;
     margin-bottom: 40px;
     border-radius: 10px;
-  
 }
 
 #registration input[type="text"], input[type="number"]{
-    padding: 10px 15px;
+    padding: 8px 15px;
     outline: none;
-    margin-top: 15px;
-    margin-bottom: 25px;
 }
 
-#registration  input[type="password"]{
+#registration  #password{
     width: 33.3%;
     outline: none;
+    border: 1px solid #fff;
+
 }
 
-#registration input[type="email"]{
+#registration #email{
+    width: 75% !important;
     outline: none;
+    border: 1px solid #fff;
 }
 
 #registration select[name="gender"]{
-    padding: 10px 30px;
+    padding: 8px 30px;
+
 }
 
-#registration{
-    display: block;
-}
 
 #registration input[type="submit"]{
     width: 100%;
+    margin-top: 10px;
+}
+
+#form-registration input{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+#form-registration label{
+    font-size: 12px;
+    /* display: block; */
 }
 
 
