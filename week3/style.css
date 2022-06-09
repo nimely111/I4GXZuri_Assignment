@@ -135,7 +135,7 @@ header .flex{
     margin-bottom: 40px;
     border-radius: 10px;
 }
-#my-form{
+.my-form{
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 5px;
@@ -147,7 +147,7 @@ form label{
     margin-top: 10px;
 }
 
-#my-form input[type="text"], input[type="email"],input[type="password"]{
+.my-form input[type="text"], input[type="email"],input[type="password"]{
     width: 100%;
     padding: 10px 15px;
     font-size: 16px;
@@ -158,7 +158,7 @@ form label{
 
 }
 
-#my-form textarea{
+.my-form textarea{
     width: 100%;
     padding: 10px 15px;
     font-size: 16px;
@@ -168,13 +168,13 @@ form label{
     color: #fff;
 }
 
-#my-form input[type="submit"]{
+.my-form input[type="submit"]{
     width: 100%;
     margin-top: 5px;
     font-size: 18px;
 }
 
-#my-form input, textarea{
+.my-form input, textarea{
     outline: none;
 }
 
