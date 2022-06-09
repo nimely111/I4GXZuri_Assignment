@@ -215,14 +215,19 @@ form label{
 #registration  #password{
     width: 33.3%;
     outline: none;
-    border: 1px solid #fff;
-
+    border-radius: 7px;
+    background: #333;
+    border: 1px solid #2F7AED;
+    color: #fff;
 }
 
 #registration #email{
     width: 75% !important;
     outline: none;
-    border: 1px solid #fff;
+    border-radius: 7px;
+    background: #333;
+    border: 1px solid #2F7AED;
+    color: #fff;
 }
 
 #registration select[name="gender"]{
