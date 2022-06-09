@@ -209,6 +209,10 @@ form label{
     outline: none;
 }
 
+#registration select[name="gender"]{
+    padding: 10px 30px;
+}
+
 
 /* registration ends */
 
