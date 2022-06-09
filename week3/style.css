@@ -201,6 +201,7 @@ form label{
     margin-top: 10px;
     margin-bottom: 40px;
     border-radius: 10px;
+    position: relative;
 }
 
 #registration input[type="text"], input[type="number"]{
@@ -252,9 +253,14 @@ form label{
 
 #form-registration label{
     font-size: 12px;
-    /* display: block; */
+    position: absolute;
 }
 
+
+#form-registration div{
+   width: 75%;
+   margin: 20px auto;
+}
 
 
 
