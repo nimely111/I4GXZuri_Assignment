@@ -166,7 +166,6 @@ form label{
     background: #333;
     border: 1px solid #2F7AED;
     color: #fff;
-
 }
 
 #my-form input[type="submit"]{
@@ -205,8 +204,9 @@ form label{
   
 }
 
-#form-registration{
-    padding: 20px;
+#registration #form-registration input[type="text"], input[type="email"],input[type="password"], input[type="number"]{
+    padding: 10px 15px;
+    outline: none;
 }
 
 
