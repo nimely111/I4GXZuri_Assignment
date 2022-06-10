@@ -99,7 +99,6 @@ header .flex{
     height: 350px;
 }
 
-
 .btn{
     background: #2F7AED;
     color: #fff;
@@ -194,7 +193,7 @@ form label{
 /* registration starts */
 #registration{
     margin: 0.5rem auto;
-    width: 900px;
+    width: 75%;
     height: 450px;
     box-shadow: 10px 5px 15px 
     5px rgba(0,0, 0, 0.5);
@@ -205,13 +204,15 @@ form label{
     position: relative;
 }
 
+
+
 #registration form{
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-
-
 }
+
+
 /* registration ends */
 
 
