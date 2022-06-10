@@ -187,7 +187,10 @@ form label{
     box-shadow: 10px 5px 15px 5px rgba(0,0, 0, 0.5);
     padding-bottom: 20px;
     border-radius: 10px;
+    position: relative;
 }
+
+
 /* login ends */
 
 /* registration starts */
