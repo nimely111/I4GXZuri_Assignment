@@ -147,7 +147,7 @@ form label{
     margin-top: 10px;
 }
 
-.my-form input[type="text"], input[type="email"],input[type="password"]{
+.my-form input[type="text"], input[type="email"],input[type="password"], #registration input[type="text"], input[type="email"],input[type="password"], input[type="number"], select{
     width: 100%;
     padding: 10px 15px;
     font-size: 16px;
@@ -201,16 +201,14 @@ form label{
     margin-top: 10px;
     margin-bottom: 40px;
     border-radius: 10px;
-    position: relative;
 }
-
-
 
 #registration form{
     width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
+
 
 
 /* registration ends */
