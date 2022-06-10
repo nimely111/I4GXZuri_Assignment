@@ -209,7 +209,9 @@ form label{
     margin-right: auto;
 }
 
-
+form input{
+    outline: none;
+}
 
 /* registration ends */
 
