@@ -213,6 +213,16 @@ form input{
     outline: none;
 }
 
+#registration input[type="text"], input[type="email"],input[type="password"], input[type="number"], select{
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 13px;
+}
+
+::placeholder {
+    color:#fff;
+    opacity: 1;
+}
 /* registration ends */
 
 
