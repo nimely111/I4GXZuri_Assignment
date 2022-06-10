@@ -204,65 +204,6 @@ form label{
     position: relative;
 }
 
-#registration input[type="text"], input[type="number"]{
-    padding: 8px 15px;
-    outline: none;
-    border-radius: 7px;
-    background: #333;
-    border: 1px solid #2F7AED;
-    color: #fff;
-}
-
-#registration  #password{
-    width: 33.3%;
-    outline: none;
-    border-radius: 7px;
-    background: #333;
-    border: 1px solid #2F7AED;
-    color: #fff;
-}
-
-#registration #email{
-    width: 75% !important;
-    outline: none;
-    border-radius: 7px;
-    background: #333;
-    border: 1px solid #2F7AED;
-    color: #fff;
-}
-
-#registration select[name="gender"]{
-    padding: 8px 30px;
-    border-radius: 7px;
-    background: #333;
-    border: 1px solid #2F7AED;
-    color: #fff;
-    outline: none;
-}
- 
-
-#registration input[type="submit"]{
-    width: 100%;
-    margin-top: 10px;
-}
-
-#form-registration input{
-    margin-top: 2px;
-    margin-bottom: 2px;
-}
-
-#form-registration div label{
-    font-size: 12px;
-    position: absolute;
-}
-
-
-#form-registration div{
-   width: 75%;
-   margin: 20px auto;
-}
-
-
 
 /* registration ends */
 
