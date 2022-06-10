@@ -209,7 +209,7 @@ form label{
     margin-right: auto;
 }
 
-form input{
+form input, select{
     outline: none;
 }
 
