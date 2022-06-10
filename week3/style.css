@@ -193,7 +193,7 @@ form label{
 /* registration starts */
 #registration{
     margin: 0.5rem auto;
-    width: 75%;
+    width: 50%;
     height: 450px;
     box-shadow: 10px 5px 15px 
     5px rgba(0,0, 0, 0.5);
@@ -217,6 +217,7 @@ form input{
     width: 100%;
     padding: 10px 15px;
     font-size: 13px;
+    margin-bottom: 5px;
 }
 
 ::placeholder {
