@@ -81,7 +81,7 @@ header .flex{
 
 
 .active{
-   border: 2px  dashed #fff;
+   background-color: #D33B5A;
 }
 /* header and nav end*/
 
