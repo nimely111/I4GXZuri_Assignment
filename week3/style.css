@@ -239,7 +239,7 @@ form label{
     color: #fff;
     outline: none;
 }
-
+ 
 
 #registration input[type="submit"]{
     width: 100%;
@@ -251,7 +251,7 @@ form label{
     margin-bottom: 2px;
 }
 
-#form-registration label{
+#form-registration div label{
     font-size: 12px;
     position: absolute;
 }
