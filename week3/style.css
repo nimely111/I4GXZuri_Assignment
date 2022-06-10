@@ -218,11 +218,17 @@ form input{
     padding: 10px 15px;
     font-size: 13px;
     margin-bottom: 5px;
+    margin-top: 2px;
 }
 
 ::placeholder {
     color:#fff;
     opacity: 1;
+}
+
+#registration #btn-div{
+    margin: auto;
+    width: 200px;
 }
 /* registration ends */
 
