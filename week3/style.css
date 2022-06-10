@@ -75,6 +75,7 @@ header .flex{
 
 .logo{
     cursor: pointer;
+    font-family:'Courier New', Courier, monospace;
 }
 
 
@@ -204,8 +205,12 @@ form label{
     position: relative;
 }
 
-#registration div{
-    
+#registration form{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+
 }
 /* registration ends */
 
