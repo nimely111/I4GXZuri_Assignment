@@ -99,6 +99,15 @@ header .flex{
     height: 350px;
 }
 
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container div{
+    width: 50%;
+}
+
 .btn{
     background: #2F7AED;
     color: #fff;
