@@ -104,6 +104,10 @@ header .flex{
     flex-direction: row;
 }
 
+.info{
+    margin:0 auto;
+    width: 75%;
+}
 .flex-container div{
     width: 50%;
 }
