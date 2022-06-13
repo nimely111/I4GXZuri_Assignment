@@ -94,6 +94,9 @@ header .flex{
     margin: 0 auto;
 }
 
+.flex-container .profile{
+}
+
 .profile img{
     width: 350px;
     height: 350px;
