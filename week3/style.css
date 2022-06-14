@@ -94,19 +94,21 @@ header .flex{
     margin: 0 auto;
 }
 
-.flex-container .profile{
-    
-}
 
 .profile img{
     width: 300px;
     height: 300px;
     margin-left: 50px;
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    border-left: 3px solid #fff;
+
 }
 
 .flex-container{
     display: flex;
     flex-direction: row;
+    margin-top: 10px;
 }
 
 .info{
