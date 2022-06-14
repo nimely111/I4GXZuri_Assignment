@@ -99,9 +99,10 @@ header .flex{
     width: 300px;
     height: 300px;
     margin-left: 50px;
-    border-top: 3px solid #fff;
-    border-bottom: 3px solid #fff;
-    border-left: 3px solid #fff;
+    border-top: 10px solid #D33B5A;
+    border-top-left-radius: 5px;
+    border-bottom: 10px solid #2F7AED;
+    border-left: 10px solid #fff;
 
 }
 
