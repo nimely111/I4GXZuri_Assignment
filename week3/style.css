@@ -103,6 +103,8 @@ header .flex{
     border-bottom: 15px solid #2F7AED;
     border-left: 15px solid #D33B5A;
     border-radius: 55px 0 35px 35px; 
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.7);
+
 }
 
 .sub-text{
