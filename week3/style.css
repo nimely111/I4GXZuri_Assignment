@@ -123,6 +123,12 @@ header .flex{
 .info{
     margin:0 auto;
     width: 75%;
+
+}
+
+.caterory-1, h3{
+    color: #D33B5A;
+    font-weight: bold;
 }
 .flex-container div{
     width: 50%;
