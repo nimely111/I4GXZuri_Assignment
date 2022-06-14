@@ -105,6 +105,13 @@ header .flex{
     border-radius: 55px 0 35px 35px; 
 }
 
+.sub-text{
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 10px;
+
+}
+
 .flex-container{
     display: flex;
     flex-direction: row;
