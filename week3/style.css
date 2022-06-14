@@ -129,7 +129,7 @@ header .flex{
     font-weight: bold;
 }
 
-.category-1, .category-2, .category-3{
+.categories{
     padding: 5px;
     margin-left: 9px;
     box-shadow:inset 10px 5px 15px 5px rgba(0,0, 0, 0.5);
