@@ -150,6 +150,13 @@ header .flex{
     border-radius: 50px;
 }
 
+#contact-btn{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    padding: 5px;
+}
+
 .btn:hover{
     cursor: pointer;
 }
